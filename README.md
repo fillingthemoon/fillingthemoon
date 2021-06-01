@@ -1,4 +1,4 @@
-Hi there! 👋🏻
+## Hi there! 👋🏻
 
 I'm a passionate self-taught full stack developer who enjoys creating websites and applications. 👨🏻‍💻
 
@@ -8,4 +8,4 @@ In the future, I hope to integrate Geographic Information Systems (GIS) in my we
 
 Check out my website where you can find out more about my my journey, experience, projects, and skills! 🎯
 
-https://philemonheng.com
+🔗 https://philemonheng.com
