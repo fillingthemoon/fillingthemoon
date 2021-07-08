@@ -1,6 +1,6 @@
 ## Hi there! 👋🏻
 
-I'm Phil, a passionate self-taught full stack developer who enjoys creating websites and applications. 👨🏻‍💻
+I'm Phil, a passionate self-taught full stack developer who enjoys creating web applications. 👨🏻‍💻
 
 Currently, I'm exploring exciting frontend and backend technologies and their endless possibilities! 💫
 
